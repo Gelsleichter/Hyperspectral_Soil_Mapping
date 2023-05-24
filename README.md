@@ -1,6 +1,6 @@
 ## Hyperspectral Soil Mapping
 
-#### The data (also research code) is beeing uploaded in the https://zenodo.org/ and will be available soon.
+**The data (also research code) is beeing uploaded in the https://zenodo.org/ and will be available soon.**
 
 
 ## Scripts description:
