@@ -1,5 +1,10 @@
 ## Hyperspectral Soil Mapping
 
+### The data with research code is beeing uploaded in the https://zenodo.org/ and will be available soon.
+
+
+## Scripts description:
+
 The folder "scripts" contains the code of Hyperspectral Soil Mapping techniques, where:
 
 All code is R based.
