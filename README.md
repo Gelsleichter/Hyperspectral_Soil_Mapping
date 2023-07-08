@@ -1,6 +1,8 @@
 ## Hyperspectral Soil Mapping
 
-The data, research R code and metadata used in several studies including the one below* https://doi.org/10.1016/j.geodrs.2023.e00641, are published in zenodo.org and under the permanent identifier https://doi.org/10.5281/zenodo.8126759.
+The Itatiaia National Park (INP) data, was used in several studies, the study below* developed the research R code and metadata which are published in zenodo.org and under the permanent identifier https://doi.org/10.5281/zenodo.8126759.
+
+The data from the soils of Itatiaia National Park (INP) has been utilized in numerous studies. The specific research R code and metadata, used in the study cited below*, were developed and subsequently published alongside the data on the zenodo.org and under the permanent identifier https://doi.org/10.5281/zenodo.8126759. Where it can be downloaded.
 
 **Use it freely, please provide the citation in case of publications.**
 
