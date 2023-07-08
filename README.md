@@ -6,11 +6,9 @@ The data, research R code and metadata used in several studies including the one
 
 With best regards: 
 
-Lucia Helena Cunha dos Anjos
-
-Elias Mendes Costa
-
-Yuri Andrei Gelsleichter 
+Lucia Helena Cunha dos Anjos \
+Elias Mendes Costa \
+Yuri Andrei Gelsleichter \
 
 Robson Altiellys Tosta Marcondes 
 
