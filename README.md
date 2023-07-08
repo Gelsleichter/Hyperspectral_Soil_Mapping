@@ -4,7 +4,7 @@ The Itatiaia National Park (INP) data, was used in several studies, the study be
 
 The data from the soils of Itatiaia National Park (INP) has been utilized in numerous studies. The specific research R code and metadata, used in the study cited below*, were developed and subsequently published alongside the data on the zenodo.org and under the permanent identifier https://doi.org/10.5281/zenodo.8126759. Where it can be downloaded.
 
-**Use it freely, please provide the citation in case of publications.**
+*Use it freely, please provide the citation in case of publication(s).*
 
 With best regards: \ 
 Lucia Helena Cunha dos Anjos \ 
