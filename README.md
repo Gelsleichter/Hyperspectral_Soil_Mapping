@@ -5,8 +5,8 @@ The data, research R code and metadata used in several studies including the one
 **Use it freely, please provide the citation in case of publications.**
 
 With best regards: 
-Lucia Helena Cunha dos Anjos 
-Elias Mendes Costa 
+Lucia Helena Cunha dos Anjos; 
+Elias Mendes Costa; 
 Yuri Andrei Gelsleichter 
 Robson Altiellys Tosta Marcondes 
 Gabriela Corrêa Valente 
