@@ -1,20 +1,16 @@
 ## Hyperspectral Soil Mapping
 
-**The data (also research code) is beeing uploaded in the https://zenodo.org/ and *doi* will be available here soon.**
+The data, research R code and metadata used in several studies including the one below* <https://doi.org/10.1016/j.geodrs.2023.e00641>, are published in https://zenodo.org/ and under the permanent identifier https://doi.org/10.5281/zenodo.8126759.
 
+**Use it freely, please provide the citation in case of publications.**
 
-## Scripts description:
+With best regards: 
+Lucia Helena Cunha dos Anjos
+Elias Mendes Costa
+Yuri Andrei Gelsleichter
+Robson Altiellys Tosta Marcondes
+Gabriela Corrêa Valente
 
-The folder "scripts" contains the code of Hyperspectral Soil Mapping techniques, where:
-
-All code is R based.
-
-- HSM_fluxogram.R
-is the "DiagrammeR" code to generate the HSM fluxogram.
-
-- Reference_packages.R
-extract the citation from R packges in .bib format.
-
-- Hyperspectral_Soil_Mapping_2022.R
-The main code for Hyperspectral Soil Mapping techniques, and Hyperspectral Subsurface Image.
-The last one will be availble as soon as the paper is published, and for peer review process, code was sent with the manuscript.
+*Gelsleichter, Y. A., Costa, E. M., dos Anjos, L. H. C., & Marcondes, R. A. T. (2023). Enhancing soil mapping with hyperspectral subsurface images generated from soil lab vis-SWIR spectra tested in southern Brazil. Geoderma Regional, e00641.
+doi: https://doi.org/10.1016/j.geodrs.2023.e00641
+link: https://www.sciencedirect.com/science/article/pii/S2352009423000378
