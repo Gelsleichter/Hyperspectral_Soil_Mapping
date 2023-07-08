@@ -5,10 +5,15 @@ The data, research R code and metadata used in several studies including the one
 **Use it freely, please provide the citation in case of publications.**
 
 With best regards: 
-Lucia Helena Cunha dos Anjos; \\
-Elias Mendes Costa; //
+
+Lucia Helena Cunha dos Anjos
+
+Elias Mendes Costa
+
 Yuri Andrei Gelsleichter 
+
 Robson Altiellys Tosta Marcondes 
+
 Gabriela Corrêa Valente 
 
 *Gelsleichter, Y. A., Costa, E. M., dos Anjos, L. H. C., & Marcondes, R. A. T. (2023). Enhancing soil mapping with hyperspectral subsurface images generated from soil lab vis-SWIR spectra tested in southern Brazil. Geoderma Regional, e00641.
